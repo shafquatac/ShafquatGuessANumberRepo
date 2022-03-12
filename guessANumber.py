@@ -17,4 +17,4 @@ while stillHaveChance(tryTime, TotalTime) and (not win(guessNum, myNum)):
     tryTime = tryTime + 1
 
 if not stillHaveChance(tryTime, TotalTime):
-    print("YOU LOOOOOOOOOOSE!")
+    print("YOU LOOOOOOSE!")
